@@ -1,0 +1,20 @@
+{
+  "name": "syuanpackage",
+  "version": "1.0.0",
+  "description": "test npm plug",
+  "main": "index.js",
+  "private": false,
+  "author": "eric chang",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricChang159/syuanPackage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EricChang159/syuanPackage/issues"
+  },
+  "homepage": "https://github.com/EricChang159/syuanPackage#readme"
+}
