@@ -1,6 +1,6 @@
 {
   "name": "syuanpackage",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "test npm plug",
   "main": "index.js",
   "private": false,
